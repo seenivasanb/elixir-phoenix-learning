@@ -1,6 +1,6 @@
 # FirstApp
 
-**TODO: Add description**
+**TODO: Elixir & Phoenix - Self Learning**
 
 ## Installation
 
