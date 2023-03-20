@@ -1,6 +1,6 @@
-# FirstApp
+# Elixir & Phoenix - Self Learning
 
-**TODO: Elixir & Phoenix - Self Learning**
+**TODO: FirstApp project to practice the Elixir and Phoenix programming**
 
 ## Installation
 
